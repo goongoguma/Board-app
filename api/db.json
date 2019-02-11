@@ -1,0 +1,9 @@
+{
+  "boards": [
+    {
+      "title": "First Test",
+      "description": "Please login the app to create a board",
+      "id": 1
+    }
+  ]
+}
